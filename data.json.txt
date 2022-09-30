@@ -23,12 +23,26 @@
       "chractersUsed":"special char , num,Uppercase & Lowercase & special char",
       "Password":"@RaHul123",
 
-   },{
-      "id":1,
+   },
+   {
+      "id":5,
       "difficulty":"very easy",
       "chractersUsed":"numbers",
       "Password":"12345678",
    },
+   {
+      "id":6,
+      "difficulty":"very easy",
+      "chractersUsed":"chars",
+      "Password":"password",
+   },
+    {
+      "id":7,
+      "difficulty":"difficult",
+      "chractersUsed":"special char , num,Uppercase & Lowercase & special char",
+      "Password":"passw",
+   },
+   
    
 
    
